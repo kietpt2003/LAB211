@@ -1,0 +1,8 @@
+CD001 - game - audio - KOF - 25000 - 2003
+CD002 - movie - video - StarWar - 320000 - 2019
+CD003 - movie - audio - ConanDectective - 21000 - 2003
+CD004 - music - audio - LacTroi - 340500 - 1999
+CD005 - game - audio - AngryBird - 35900 - 1987
+CD006 - music - audio - LacTroi2 - 123000 - 2005
+CD007 - music - audio - LacTroi3 - 65200 - 2013
+CD008 - movie - video - Doraemon - 450000 - 2011

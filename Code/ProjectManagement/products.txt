@@ -1,0 +1,7 @@
+SE171246 - BachThao - 6900 - 123 - Available
+SE171247 - TienPhat - 1234 - 321 - Not Available
+SE171248 - PhamTuanKiet - 2000 - 1000 - Available
+SE171249 - ThuyLieu - 1000 - 500 - Available
+SE171250 - PhamTuanKhanh - 3000 - 130 - Not Available
+SE171251 - TranLoan - 1200 - 600 - Available
+SE171252 - NguyenDat - 700 - 500 - Not Available
